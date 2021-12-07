@@ -1,0 +1,9 @@
+DevOps is an IT mindset that encourages communication, collaboration, integration, and automation among software developers and IT operations in order to improve the speed and quality of delivering software
+
+Configuration Management.
+Continuous Integration.
+Automated Testing.
+Infrastructure as Code.
+Continuous Delivery.
+Continuous Deployment.
+Continuous Monitoring.
